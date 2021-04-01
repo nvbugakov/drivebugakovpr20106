@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MDK_PR_6</string>
+    <string name="todos">TODO</string>
+    <string name="result_label">Result Label</string>
+    <string name="sa">Semafor</string>
+    <string name="drcs">Drive</string>
+    <string name="start">Start</string>
+    <string name="todo">TODO</string>
+    <string name="todo">TODO</string>
+    <string name="todo">TODO</string>
+    <string name="semafor">Semafor</string>
+    <string name="start">Start</string>
+    <string name="todo">TODO</string>
+    <string name="drive">Drive</string>
+    <string name="todo">TODO</string>
+    <string name="todo">TODO</string>
+    <string name="todo">TODO</string>
+    <string name="go_racing">Go Racing</string>
+    <string name="todo">TODO</string>
+</resources>
